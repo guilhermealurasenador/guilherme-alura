@@ -1,0 +1,19 @@
+body {
+
+background-color: #184712;
+color: aliceblue;
+font-family: "Handjet", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button{
+
+    background-color: #5faf54;
+    color: antiquewhite;
+    font-family: handjet;
+}
+
